@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Product-Preview-Card/static/css/main.85ad9d48.css",
+    "main.js": "/Product-Preview-Card/static/js/main.4c2d0512.js",
+    "index.html": "/Product-Preview-Card/index.html",
+    "static/media/icon-cart.svg": "/Product-Preview-Card/static/media/icon-cart.9606ad84b7565a3f523f.svg",
+    "main.85ad9d48.css.map": "/Product-Preview-Card/static/css/main.85ad9d48.css.map",
+    "main.4c2d0512.js.map": "/Product-Preview-Card/static/js/main.4c2d0512.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ad9d48.css",
+    "static/js/main.4c2d0512.js"
+  ]
+}
