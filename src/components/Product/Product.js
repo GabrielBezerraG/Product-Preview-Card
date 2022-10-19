@@ -1,11 +1,13 @@
 import './Product.css'
+import mobileImage from '../../images/image-product-mobile.jpg';
+import desktopImage from '../../images/image-product-desktop.jpg';
 
 function Product() {
   return (
     <div className='container'>
       <main className="product">
-        <img src="/images/image-product-mobile.jpg" alt="Bottle of perfume" className="product__image--mobile" />
-        <img src="/images/image-product-desktop.jpg" alt="Bottle of perfume" className="product__image--desktop" />
+        <img src={mobileImage} alt="Bottle of perfume" className="product__image--mobile" />
+        <img src={desktopImage} alt="Bottle of perfume" className="product__image--desktop" />
         <div className='product__info'>
           <h3 className="product__info__category">PERFUME</h3>
           <h1 className="product__info__title">Gabrielle Essence Eau De Parfum</h1>
