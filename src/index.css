@@ -12,18 +12,19 @@
 html {
   font-size: 14px;
   font-family: 'Montserrat', sans-serif;
+}
+
+.container {
   background-color: var(--cream);
+  height: 100vh;
+  max-width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
 }
 
-.mobile-only {
-  display: block;
-}
-
-.desktop-only {
-  display: none;
-}
-
-@media screen and (min-width: 1080px) {
+@media screen and (min-width: 768px) {
   .mobile-only {
     display: none;
   }
