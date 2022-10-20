@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Product-Preview-Card/static/css/main.49fac6e0.css",
-    "main.js": "/Product-Preview-Card/static/js/main.0d836a3f.js",
+    "main.css": "/Product-Preview-Card/static/css/main.747fbf7e.css",
+    "main.js": "/Product-Preview-Card/static/js/main.95e7de28.js",
     "static/media/image-product-desktop.jpg": "/Product-Preview-Card/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
     "static/media/image-product-mobile.jpg": "/Product-Preview-Card/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
     "index.html": "/Product-Preview-Card/index.html",
     "static/media/icon-cart.svg": "/Product-Preview-Card/static/media/icon-cart.9606ad84b7565a3f523f.svg",
-    "main.49fac6e0.css.map": "/Product-Preview-Card/static/css/main.49fac6e0.css.map",
-    "main.0d836a3f.js.map": "/Product-Preview-Card/static/js/main.0d836a3f.js.map"
+    "main.747fbf7e.css.map": "/Product-Preview-Card/static/css/main.747fbf7e.css.map",
+    "main.95e7de28.js.map": "/Product-Preview-Card/static/js/main.95e7de28.js.map"
   },
   "entrypoints": [
-    "static/css/main.49fac6e0.css",
-    "static/js/main.0d836a3f.js"
+    "static/css/main.747fbf7e.css",
+    "static/js/main.95e7de28.js"
   ]
 }
