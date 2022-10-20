@@ -6,8 +6,10 @@ function Product() {
   return (
     <div className='container'>
       <main className="product">
-        <img src={mobileImage} alt="Bottle of perfume" className="product__image--mobile" />
-        <img src={desktopImage} alt="Bottle of perfume" className="product__image--desktop" />
+        <picture>
+          <source media="(min-width:768px" srcSet={desktopImage} />
+          <img src={mobileImage} alt="Bottle of perfume" className="product__image" />
+        </picture>
         <div className='product__info'>
           <h3 className="product__info__category">PERFUME</h3>
           <h1 className="product__info__title">Gabrielle Essence Eau De Parfum</h1>

@@ -5,13 +5,9 @@
    margin: 2rem auto 0;
 }
 
-.product__image--mobile {
+.product__image {
    border-radius: 15px 15px 0 0;
    width: 100%;
-}
-
-.product__image--desktop {
-   display: none;
 }
 
 .product__info {
@@ -101,14 +97,11 @@
       width: 600px;
    }
 
-   .product__image--mobile {
-      display: none;
-   }
-
-   .product__image--desktop {
-      display: initial;
+   .product__image {
+      width: 300px;
       border-radius: 15px 0 0 15px;
    }
+
 
    .product__info {
       padding: 2.25rem;
